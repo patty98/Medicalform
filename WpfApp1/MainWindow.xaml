@@ -18,7 +18,7 @@
             </Menu>
             <TextBox HorizontalAlignment="Left" Height="60" Margin="297,35,0,0" TextWrapping="Wrap" Text="Эзофагогастродуоденоскопия" VerticalAlignment="Top" Width="477" FontSize="24" FontWeight="Bold"/>
             <Label Name="Machine" Content="Аппарат" HorizontalAlignment="Left" Margin="30,164,0,0" VerticalAlignment="Top" Width="140" FontSize="20"/>
-            <ComboBox x:Name="combobox1"  HorizontalAlignment="Left" Margin="242,178,0,0" VerticalAlignment="Top" Width="669" Height="23" SelectionChanged="ComboBox_SelectionChanged"/>
+            <ComboBox x:Name="combobox1"  HorizontalAlignment="Left" Margin="242,178,0,0" VerticalAlignment="Top" Width="669" Height="35" SelectionChanged="ComboBox_SelectionChanged"/>
             <TextBox Name="Patient" HorizontalAlignment="Left" Height="33" Margin="251,228,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="528" RenderTransformOrigin="0.5,0.5">
                 <TextBox.RenderTransform>
                     <TransformGroup>
@@ -43,7 +43,7 @@
                 </Label.RenderTransform>
             </Label>
             <Label Content="Дата исследования" HorizontalAlignment="Left" Margin="33,377,0,0" VerticalAlignment="Top" Width="200" FontSize="20"/>
-            <TextBlock Name="Date" HorizontalAlignment="Left" Margin="250,377,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="26" Width="120" FontSize="12"/>
+            <TextBox Name="Date" HorizontalAlignment="Left" Margin="250,377,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Height="26" Width="150" FontSize="12"/>
             <Label Content="Анестезия" HorizontalAlignment="Left" Margin="38,424,0,0" VerticalAlignment="Top" Width="86" FontSize="20"/>
             <ComboBox Name="combobox2" HorizontalAlignment="Left" Margin="242,424,0,0" VerticalAlignment="Top" Width="669" Height="35"/>
             <Label Content="Описание:" HorizontalAlignment="Left" Margin="38,518,0,0" VerticalAlignment="Top" Width="467" FontWeight="Bold"/>

@@ -28,3 +28,5 @@ D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResourc
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.exe
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\Interop.LCC11.dll
+D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
