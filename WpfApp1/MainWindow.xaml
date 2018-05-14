@@ -19,7 +19,7 @@
             <TextBox HorizontalAlignment="Left" Height="60" Margin="297,35,0,0" TextWrapping="Wrap" Text="Эзофагогастродуоденоскопия" VerticalAlignment="Top" Width="477" FontSize="24" FontWeight="Bold"/>
             <Label Name="Machine" Content="Аппарат" HorizontalAlignment="Left" Margin="30,164,0,0" VerticalAlignment="Top" Width="140" FontSize="20"/>
             <ComboBox x:Name="combobox1"  HorizontalAlignment="Left" Margin="242,178,0,0" VerticalAlignment="Top" Width="669" Height="35" SelectionChanged="ComboBox_SelectionChanged"/>
-            <TextBox Name="Patient" HorizontalAlignment="Left" Height="33" Margin="251,228,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="528" RenderTransformOrigin="0.5,0.5">
+            <TextBox Name="Patient" HorizontalAlignment="Left" Height="45" Margin="251,228,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="528" RenderTransformOrigin="0.5,0.5">
                 <TextBox.RenderTransform>
                     <TransformGroup>
                         <ScaleTransform/>
