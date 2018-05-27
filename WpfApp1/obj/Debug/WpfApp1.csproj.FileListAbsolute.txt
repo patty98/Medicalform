@@ -20,7 +20,6 @@ D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyR
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\MainWindow.g.cs
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\App.g.cs
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
-D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\MainWindow.baml
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.g.resources
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
@@ -30,3 +29,4 @@ D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.exe
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.pdb
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\Interop.LCC11.dll
 D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+D:\гид\MedicalformGastroscop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref

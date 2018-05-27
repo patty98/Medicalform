@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfApp1"
+         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="MainWindow" Height="600" Width="1000" Loaded="Window_Loaded" FontSize="24">
     <ScrollViewer HorizontalScrollBarVisibility="Visible">
@@ -11,7 +11,7 @@
             <Menu Height="25" VerticalAlignment="Top">
                 <MenuItem Header="File">
                     <MenuItem Header="Изменить Ф.И.О. врача" Click="MenuItem_Click" ></MenuItem>
-                    <Separator />
+                  
                     <MenuItem Header="Exit" ></MenuItem>
                 </MenuItem>
                 <MenuItem Header="Edit" ></MenuItem>
